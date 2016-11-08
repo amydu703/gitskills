@@ -1,2 +1,3 @@
 # gitskills
-git skills 
+git skills
+get from remote repository 
