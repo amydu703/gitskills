@@ -1,7 +1,7 @@
 # gitskills
 git skills
 get from remote repository 
-edit local
+edit a local
 Creating a new branch is quick
 Creating a new branch is quick & simple
 add merge
