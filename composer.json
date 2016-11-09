@@ -1,0 +1,14 @@
+{
+    "name": "amy/gitskills",
+    "description": "Amy git skills",
+    "require-dev": {
+        "0#": "1.0"
+    },
+    "authors": [
+        {
+            "name": "Amy",
+            "email": "amy@163.com"
+        }
+    ],
+    "require": {}
+}
